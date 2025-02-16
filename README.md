@@ -25,7 +25,7 @@ This file is the entry point of the console application. It contains the main co
 
 This file contains unit tests for the `main.py` file. It ensures that the functionality of the application is working as expected.
 
-### `.gitignore`
+<!-- ### `.gitignore` -->
 
 This file specifies the files and directories that should be ignored by Git version control. It typically includes files such as compiled binaries, temporary files, and sensitive information.
 
